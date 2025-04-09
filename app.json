@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "lab9restarted",
+    "slug": "lab9restarted",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "lab9restarted"
+}
